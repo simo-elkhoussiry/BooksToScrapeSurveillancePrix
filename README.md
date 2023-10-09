@@ -16,4 +16,4 @@ source venv/bin/activate
 
 
 
-Cette approche garantit une exécution propre du projet avec des dépendances bien définies.
+## Cette approche garantit une exécution propre du projet avec des dépendances bien définies.
