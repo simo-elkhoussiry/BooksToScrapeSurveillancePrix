@@ -34,33 +34,34 @@ source venv/bin/activate  # Sur Linux/Mac
 venv\Scripts\activate    # Sur Windows 
                                             ""
 
-Installation des Dépendances
+## Installation des Dépendances
 
 Avant d'exécuter le projet, installez les dépendances nécessaires à l'aide de la commande suivante :
 
 "" pip install -r requirements.txt ""
 
-Exécution du Projet
+## Exécution du Projet
 
-Maintenant que l'environnement virtuel est activé et les dépendances sont installées, vous pouvez exécuter le projet avec la commande suivante :
+####Maintenant que l'environnement virtuel est activé et les dépendances sont installées, vous pouvez exécuter le projet avec la commande suivante :
 
 "" python Scraper_books.py ""
 
-N'oubliez pas de désactiver l'environnement virtuel après avoir terminé en utilisant la commande :
+#### N'oubliez pas de désactiver l'environnement virtuel après avoir terminé en utilisant la commande :
 
 "" deactivate ""
-Structure du Projet
+
+## Structure du Projet
 
 Scraper_books.py : Le script principal pour extraire les informations tarifaires.
 
 requirements.txt : La liste des dépendances du projet.
 
-Remarques Importantes
+## Remarques Importantes
 
 Assurez-vous que l'environnement virtuel est activé avant d'exécuter le projet.
 Les données extraites seront stockées localement dans le dossier data.
 
-Contribuer
+## Contribuer
 
 Toute contribution est la bienvenue ! Si vous avez des suggestions d'amélioration, des rapports de bogues, ou si vous souhaitez ajouter des fonctionnalités, veuillez ouvrir une issue ou une pull request.
 
