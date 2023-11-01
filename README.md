@@ -42,7 +42,7 @@ Avant d'exécuter le projet, installez les dépendances nécessaires à l'aide d
 
 ## Exécution du Projet
 
-####Maintenant que l'environnement virtuel est activé et les dépendances sont installées, vous pouvez exécuter le projet avec la commande suivante :
+#### Maintenant que l'environnement virtuel est activé et les dépendances sont installées, vous pouvez exécuter le projet avec la commande suivante :
 
 "" python Scraper_books.py ""
 
